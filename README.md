@@ -3,7 +3,7 @@
 # 📊 Beautiful HTML Table UI  
 > A clean and modern responsive table built with pure HTML & CSS.
 
-<img src="./assets/preview.png" width="80%" />
+<img src="/img/preview.png" width="80%" />
 
 <br/><br/>
 
